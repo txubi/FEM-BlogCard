@@ -84,4 +84,6 @@ main {
   background-color: var(--white);
   height: 31.312rem; /* 501/16 */
   width: 20.347rem; /* 327/16*/
+  border-radius: 20px;
+  box-shadow: 8px 8px var(--gray-95);
 }
