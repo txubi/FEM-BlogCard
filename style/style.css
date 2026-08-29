@@ -109,6 +109,10 @@ main {
   font-size: 1.25rem; /* 20/16 */
 }
 
+#heading:hover {
+  color: var(--yellow);
+}
+
 .blog-card-body {
   margin: 1.5rem 0; /* 24/16 */
 }
