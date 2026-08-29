@@ -10,7 +10,7 @@
   --yellow: #f4d04e;
   --gray-95: rgb(17, 17, 17);
   --gray500: rgb(107, 107, 107);
-  --white: #ffffff;
+  --att-blue: hsl(228, 45%, 44%);
   --base-font: 16px;
 }
 
@@ -73,5 +73,9 @@ html {
 }
 
 /* Bosy Style */
+
+body {
+  background-color: var(--yellow);
+}
 
 /* Card Styles */
