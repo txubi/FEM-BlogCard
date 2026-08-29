@@ -1,19 +1,23 @@
 @import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap");
-
+/* layout reset */
 * {
   box-sizing: border-box;
 }
+
+/* style variables */
 
 :root {
   --yellow: #f4d04e;
   --gray-95: rgb(17, 17, 17);
   --gray500: rgb(107, 107, 107);
   --white: #ffffff;
-  --base-font: 16pc;
+  --base-font: 16px;
 }
 
+/* Default text size */
+
 html {
-  font-size: var(--bse-font);
+  font-size: var(--base-font);
 }
 
 /*  Typography Classes */
@@ -67,3 +71,7 @@ html {
   letter-spacing: 0px;
   font-size: 0.75rem; /* 16/16 */
 }
+
+/* Bosy Style */
+
+/* Card Styles */
