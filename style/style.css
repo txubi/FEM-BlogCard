@@ -87,12 +87,15 @@ body {
 /* Card Styles */
 
 main {
+  padding: 1.5rem; /*.24/16 */
   background-color: var(--white);
   height: 31.312rem; /* 501/16 */
   width: 20.347rem; /* 327/16*/
   border-radius: 20px;
   box-shadow: 8px 8px var(--gray-95);
 }
+
+/* img styling */
 
 .heading-img {
   width: 17.437rem; /*.279/16 */
