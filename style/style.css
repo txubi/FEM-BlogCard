@@ -94,6 +94,19 @@ main {
   border-radius: 20px;
   box-shadow: 8px 8px var(--gray-95);
 }
+.pill {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 73px;
+  height: 26px;
+  border-radius: 4px;
+  background-color: var(--yellow);
+}
+
+#heading {
+  font-size: 1.25rem; /* 20/16 */
+}
 
 /* img styling */
 
@@ -106,7 +119,4 @@ main {
 .avatar {
   width: 2rem; /*.32/16 */
   width: 2rem;
-}
-#heading {
-  font-size: 1.25rem; /* 20/16 */
 }
