@@ -12,6 +12,7 @@
   --gray500: rgb(107, 107, 107);
   --att-blue: hsl(228, 45%, 44%);
   --base-font: 16px;
+  --white: white;
 }
 
 /* Default text size */
@@ -72,10 +73,15 @@ html {
   font-size: 0.75rem; /* 16/16 */
 }
 
-/* Bosy Style */
+/* Body Style */
 
 body {
   background-color: var(--yellow);
 }
 
 /* Card Styles */
+main {
+  background-color: var(--white);
+  height: 31.312rem; /* 501/16 */
+  width: 20.347rem; /* 327/16*/
+}
