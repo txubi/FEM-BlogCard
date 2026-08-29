@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/blog-card-mobile-first-flexbox-css-variables-GdiLA4fPPm)
+- Live Site URL: [Live Site](https://txubi.github.io/FEM-BlogCard/)
 
 ## My process
 
@@ -55,7 +55,7 @@ I didn't know if I was supposed to use an a instead of an h1. I didn't know how 
 
 ### Useful resources
 
-- [Google](https://www.google.com) - lol]
+- [Google](https://www.google.com) - lol
 
 ## Author
 
