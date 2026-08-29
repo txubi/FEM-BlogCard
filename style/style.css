@@ -107,3 +107,6 @@ main {
   width: 2rem; /*.32/16 */
   width: 2rem;
 }
+#heading {
+  font-size: 1.25rem; /* 20/16 */
+}
