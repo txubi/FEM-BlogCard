@@ -12,6 +12,7 @@
   --gray500: rgb(107, 107, 107);
   --att-blue: hsl(228, 45%, 44%);
   --base-font: 16px;
+  --big-base-font: 18.788px;
   --white: white;
 }
 
@@ -135,4 +136,10 @@ main {
   background-position: center;
   margin-right: 8px; /* Adds spacing between the image and text */
   vertical-align: middle; /* Aligns the 32px image with the center of your text */
+}
+
+@media screen and (min-width: 768px) {
+  html {
+    font-size: var(--big-base-font);
+  }
 }
