@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap");
+
 * {
   box-sizing: border-box;
 }
@@ -12,4 +14,56 @@
 
 html {
   font-size: var(--bse-font);
+}
+
+/*  Typography Classes */
+
+.text-preset-1 {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  line-height: 150%;
+  letter-spacing: 0px;
+  font-size: 1.5rem; /* 24/16 */
+}
+
+.text-preset-2 {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 150%;
+  letter-spacing: 0px;
+  font-size: 1rem; /* 16/16 */
+}
+
+.text-preset-3 {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 150%;
+  letter-spacing: 0px;
+  font-size: 0.875rem; /* 14/16 */
+}
+
+.text-preset-4 {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  line-height: 150%;
+  letter-spacing: 0px;
+  font-size: 0.75rem; /* 12/16 */
+}
+
+.text-preset-5 {
+  font-family: "Figtree", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 150%;
+  letter-spacing: 0px;
+  font-size: 0.75rem; /* 16/16 */
 }
