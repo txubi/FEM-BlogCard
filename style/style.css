@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  --yellow: #f4d04e;
+  --gray-95: rgb(17, 17, 17);
+  --gray500: rgb(107, 107, 107);
+  --white: #ffffff;
+  --base-font: 16pc;
+}
+
+html {
+  font-size: var(--bse-font);
+}
